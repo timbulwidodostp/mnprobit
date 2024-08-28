@@ -1,6 +1,8 @@
 # mnprobit
 Multinomial probit model Use mnprobit With (In) R Software
 
+https://www.youtube.com/watch?v=bROucZcunqs
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
